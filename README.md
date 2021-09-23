@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-🔭 I’m currently working on completing my bootcamp
+🔭 I’m currently working on completing my Pursuit fellowship
 
 
 🌱 I’m currently learning HTML, Javascript, and CSS
